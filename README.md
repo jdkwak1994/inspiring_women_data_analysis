@@ -10,3 +10,9 @@ We webscraped these links above to extract the needed data and translate into in
 We used D3, HTML, CSS, Javascript to create an interactive flask app that displays various different cleaned data. 
 
 Run the app.py by calling `$flask run` or `$python app.py`.
+
+### Group Members
+* Cesar Serrano
+* Yeonjae Riyoon
+* Maria Sierra Lizarazo
+* Jeongdae (JD) Kwak
