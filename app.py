@@ -1,7 +1,7 @@
 from flask import Flask, render_template, redirect
 from flask_pymongo import PyMongo
-import data.getting_data
-import scrape_data 
+import templates.data.getting_data
+import templates.data.scrape_data 
 
 app = Flask(__name__)
 app.static_folder = 'templates/static'
