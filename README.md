@@ -1,7 +1,7 @@
-# Project Information
-Our group set out to create a dynamic, user-interactive dashboard showcasing inspiring women from around the world through the means of the world map, graphs, and other visually pleasing tools.
+# Inspiring Women Data Analysis Project
+The goal of this project is to create a dynamic, user-interactive dashboard showcasing inspiring women from around the world through the means of the world map, graphs, and other visually pleasing tools.
 
-Sources we used are:
+#### Dataset Sources:
 * https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-12-08
 * https://www.worldathletics.org/records/by-category/world-records
 
