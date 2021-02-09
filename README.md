@@ -23,10 +23,10 @@ The purpose of this project is to create a dynamic, user-interactive dashboard s
 ---
 
 ## Sample Screenshots
-**Main Page**
+* **Main Page**
 ![Screenshot](Screenshots/main_page.png "Screenshot")
 
-**Maps Page**
+* **Maps Page**
 ![Screenshot](Screenshots/map_page.png "Screenshot")
 
 ---
