@@ -1,4 +1,4 @@
-# Inspiring Women Data Analysis Project
+# Inspiring Women Data Analysis
 The purpose of this project is to create a dynamic, user-interactive dashboard showcasing inspiring women from around the world through the means of the world map, graphs, and other visually pleasing tools.
 
 ### Dataset Sources:
