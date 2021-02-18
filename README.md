@@ -36,3 +36,11 @@ The purpose of this project is to create a dynamic, user-interactive dashboard s
 2. Create a [Mapbox Token](https://account.mapbox.com/auth/signup/).
 3. Include your `Mapbox Token` in the `/templates/static/js/config.js` file.
 4. Run `flask run` or `python -m http.server` or any other method for this purpose.
+
+---
+
+### Team Members:
+* [Jeongdae (JD) Kwak](https://github.com/jdkwak1994)
+* [Cesar Serrano](https://github.com/cesar3963)
+* [Maria Sierra Lizarazo](https://github.com/mariasierralizarazo)
+* [Yeonjae Riyoon](https://github.com/ybriyoon)
